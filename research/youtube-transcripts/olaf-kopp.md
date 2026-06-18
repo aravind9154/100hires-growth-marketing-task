@@ -5,7 +5,7 @@
 **Name:** Olaf Kopp  
 **Topic:**AI-powered SEO content production 
 **Platform:** YouTube  
-**Research Collection Date:** 18 June 2026  
+**Research Collection Date:** 16 June 2026  
 
 ---
 
