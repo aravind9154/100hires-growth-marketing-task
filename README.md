@@ -1,41 +1,95 @@
-# 100Hires Setup Task
+# AI-Powered SEO Content Production Research
 
-## Overview
+## Project Overview
 
-This repository documents the setup process completed for the 100Hires assignment.
+This repository contains research on AI-Powered SEO Content Production completed as part of the 100Hires Growth Marketing assignment.
 
-## Tools Installed
+The goal of this research is to identify leading practitioners actively sharing insights on AI-assisted content creation, semantic SEO, topical authority, content automation, search quality systems, and scalable SEO workflows.
 
-* Cursor IDE
-* Claude Code Extension
-* Codex Extension
-* Git
-* GitHub
+## Research Topic
 
-## Steps Completed
+**AI-Powered SEO Content Production**
 
-### 1. Cursor Installation
+## Research Objective
 
-Installed Cursor IDE and opened the application successfully.
+The objective of this project is to analyze how experienced SEO professionals use AI, automation, semantic SEO, and content systems to improve content production and organic search performance.
 
-### 2. Extensions Setup
+## Selected Experts
 
-Installed Claude Code and Codex extensions from the Cursor marketplace and logged in.
+1. Koray Tuğberk GÜBÜR
+2. Kevin Indig
+3. Aleyda Solis
+4. Lily Ray
+5. Marie Haynes
+6. Nick Eubanks
+7. Matt Diggity
+8. Gael Breton
+9. Olaf Kopp
+10. Julian Goldie
 
-### 3. GitHub Repository
+## Why These Experts Were Chosen
 
-Created a public GitHub repository and cloned it into local system.
+These experts were selected because they:
 
-### 4. Git Integration
+* Actively publish original SEO research and experiments
+* Share practical AI-powered content production strategies
+* Have strong industry credibility and real-world experience
+* Focus on semantic SEO, topical authority, content systems, and search quality
+* Provide high-signal educational content suitable for building future SEO playbooks
 
-Verified Git installation and connected local repository with GitHub remote.
+## Research Collection Period
 
-## Issues Faced
+* Research Collection Dates: June 17–18, 2026
+* Content Review Period: April 2026 – June 2026
 
-* Initially unsure about GitHub link format
-* Resolved by using correct `.git` repository URL
-* Learned how to clone repositories using Git
+## Repository Structure
+
+```text
+research/
+├── sources.md
+├── linkedin-posts/
+├── youtube-transcripts/
+└── other/
+```
+
+### sources.md
+
+Contains the list of selected experts, profile links, content review dates, annotations, and research references.
+
+### linkedin-posts/
+
+Contains LinkedIn content collected and organized by author.
+
+### youtube-transcripts/
+
+Contains YouTube research and transcript-based analysis organized by expert.
+
+### other/
+
+Contains additional supporting materials related to AI-powered SEO content production.
+
+## Research Materials Collected
+
+* LinkedIn posts
+* YouTube transcripts
+* SEO strategy discussions
+* AI-assisted content production workflows
+* Semantic SEO research
+* Topical authority frameworks
+* Search quality and E-E-A-T insights
+* Content automation and scaling methodologies
+
+## Key Learning Areas
+
+* AI-assisted content production
+* Semantic SEO
+* Topical authority development
+* Search quality systems
+* Content automation
+* SEO workflow optimization
+* Organic growth strategies
 
 ## Outcome
 
-Successfully completed full setup and verified Git synchronization between local system and GitHub.
+A structured research repository containing expert insights, LinkedIn content analysis, YouTube transcript research, and supporting materials that can be used to develop future AI-powered SEO playbooks and content strategies.
+
