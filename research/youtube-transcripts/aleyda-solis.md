@@ -1,174 +1,196 @@
-# Aleyda Solis - YouTube Research (Technical SEO, AI Search & International SEO Strategy)
+# Aleyda Solis - YouTube Research
 
----
-
-## Why this expert was selected
-
-Aleyda Solis was selected because she represents one of the strongest technical SEO and international SEO perspectives in the industry. Her work focuses on structured SEO systems, search visibility optimization, and adapting SEO strategies for evolving search engines, including AI-powered search environments.
-
-She is especially valuable for this research because she:
-
-- Specializes in technical SEO and international SEO at scale
-- Focuses on structured frameworks and repeatable SEO systems
-- Actively discusses AI search, GEO (Generative Engine Optimization), and visibility tracking
-- Bridges traditional SEO with emerging AI-driven search behavior models
-
-This makes her insights essential for understanding how SEO structures must evolve for AI-first search systems.
-
----
-
-## Expert Overview
-
-Aleyda Solis is an international SEO consultant, speaker, and founder of Orainti. She is widely recognized for her expertise in technical SEO, site migrations, and global SEO strategies.
+Expert Name: Aleyda Solis  
+Topic: AI-Powered SEO Content Production  
+Platform: YouTube  
+Research Collection Date: 16 June 2026  
 
 ---
 
 ## Video 1
-- Link: https://www.youtube.com/watch?v=1aAleydaSEO1
+
+### Title  
+SEO Strategies to Focus on in 2022  
+
+### Video URL  
+https://www.youtube.com/watch?v=4w6XvaKZFI4  
+
+### Publication Date  
+Jan 2022  
+
+### Key Topics Discussed
+- SEO strategy evolution and priorities
+- Content-driven organic growth
+- Importance of search intent alignment
+- Long-term SEO planning over short-term tactics
+- Value of expert-driven content creation
+
+### Transcript Highlights
+The video focuses on foundational SEO strategies and how content should align with evolving search behavior. It emphasizes long-term planning and adapting to algorithm shifts.
 
 ### Key Insights
-- SEO must adapt to AI-driven search environments
-- Traditional ranking signals are no longer sufficient alone
-- Visibility now includes AI-generated responses
+- SEO requires long-term strategic thinking  
+- Content must align with user intent  
+- Consistency is more important than short-term spikes  
+- Expert-led SEO improves content reliability  
 
-### Takeaway
-SEO must evolve beyond traditional SERP ranking tracking.
+### Relevance to AI-Powered SEO Content Production
+- AI content must be aligned with search intent, not just keyword generation  
+- Long-form strategic planning is essential when scaling AI content systems  
+- AI should support consistency in publishing rather than one-off content bursts  
+- Human expert input is still critical for trust and authority in AI-generated SEO workflows  
 
 ---
 
 ## Video 2
-- Link: https://www.youtube.com/watch?v=2aAleydaSEO2
+
+### Title  
+How to Measure The Impact of AI Overviews on Organic Search Traffic  
+
+### Video URL  
+https://www.youtube.com/watch?v=L7qfCzlQjxY  
+
+### Publication Date  
+1 year ago  
+
+### Key Topics Discussed
+- Measuring AI Overview impact on organic traffic
+- Before vs after performance comparison
+- Query segmentation for accurate analysis
+- Click vs impression behavior changes
+- Limitations of raw Search Console data
+
+### Transcript Highlights
+The video explains how AI Overviews change SEO performance measurement. It highlights the need to compare grouped queries before and after AI Overview inclusion to avoid misleading conclusions.
 
 ### Key Insights
-- International SEO requires structured content targeting
-- Language + region + intent must be aligned
-- Search engines evaluate contextual relevance globally
+- AI Overview impact is not uniform across queries  
+- Clicks may drop even when impressions rise  
+- Query segmentation is critical for accuracy  
+- Search Console data must be grouped for real insights  
 
-### Takeaway
-International SEO is about structured global relevance.
+### Relevance to AI-Powered SEO Content Production
+- AI SEO systems must be evaluated using segmented datasets, not raw metrics  
+- Content performance tracking should distinguish between AI-driven SERP changes and ranking changes  
+- AI-generated content strategies must adapt to shifting click-through behavior  
+- Automation pipelines should include performance comparison logic for before/after SERP changes  
 
 ---
 
 ## Video 3
-- Link: https://www.youtube.com/watch?v=3aAleydaSEO3
+
+### Title  
+How to Assess Google AI Overviews (SGE) Traffic Risk for Your Site  
+
+### Video URL  
+https://www.youtube.com/watch?v=ZMADc6bOwP4  
+
+### Publication Date  
+2 years ago  
+
+### Key Topics Discussed
+- AI Overview / SGE risk assessment methods
+- Query classification by risk level
+- Impact on informational vs transactional queries
+- Traffic loss prediction models
+- SERP feature dependency analysis
+
+### Transcript Highlights
+The video describes how to classify AI Overview risk into low, medium, and high impact categories depending on how much the SERP feature replaces or reduces organic clicks.
 
 ### Key Insights
-- Technical SEO remains foundational in AI search
-- Site architecture impacts AI crawl understanding
-- Structured data improves machine interpretation
+- Not all queries are equally affected by AI Overviews  
+- Informational queries face highest disruption  
+- Some SERP features fully replace organic clicks  
+- Risk scoring helps prioritize SEO actions  
 
-### Takeaway
-Technical SEO is critical for AI readability.
+### Relevance to AI-Powered SEO Content Production
+- AI content systems should classify topics based on SERP risk before publishing  
+- Informational content may require additional depth to survive AI Overview summarization  
+- AI SEO workflows should include SERP simulation or risk scoring models  
+- Content automation should prioritize low-risk + high-value query segments  
 
 ---
 
 ## Video 4
-- Link: https://www.youtube.com/watch?v=4aAleydaSEO4
+
+### Title  
+How to Identify and Leverage Trending Topics for SEO  
+
+### Video URL  
+https://www.youtube.com/watch?v=BUjfPMmqtfE  
+
+### Publication Date  
+3 years ago  
+
+### Key Topics Discussed
+- Identifying trending search topics early
+- Using social and behavioral signals for SEO
+- Leveraging tools like Google Trends and TikTok insights
+- Importance of qualitative + quantitative research
+- Combining evergreen and trending content
+
+### Transcript Highlights
+The video highlights how trending topics emerge from culture and social platforms. It explains that SEO success comes from spotting trends early using both tools and human observation.
 
 ### Key Insights
-- SEO tracking must evolve beyond rankings
-- AI visibility requires new measurement frameworks
-- Impressions alone are no longer sufficient
+- Trends often start outside Google (social platforms)  
+- Internal data + customer insights are powerful  
+- Early targeting = low competition advantage  
+- Balance evergreen + trending content strategy  
 
-### Takeaway
-SEO measurement must include AI visibility metrics.
+### Relevance to AI-Powered SEO Content Production
+- AI systems can detect early trend signals from multi-platform data sources  
+- Content generation pipelines should include real-time trend ingestion  
+- AI should assist in rapid content production for emerging topics  
+- Hybrid human-AI workflows are needed for cultural relevance and accuracy  
 
 ---
 
 ## Video 5
-- Link: https://www.youtube.com/watch?v=5aAleydaSEO5
+
+### Title  
+Accessibility for SEOs: How to take Accessibility into consideration as an SEO  
+
+### Video URL  
+https://www.youtube.com/watch?v=Qs6CwFoYkI0  
+
+### Publication Date  
+4 years ago  
+
+### Key Topics Discussed
+- SEO and accessibility overlap
+- Web Content Accessibility Guidelines (WCAG)
+- Technical SEO + UX accessibility alignment
+- Screen reader and usability testing
+- Common accessibility mistakes in websites
+
+### Transcript Highlights
+The video explains how accessibility is not just a technical requirement but a core part of SEO and UX. It stresses real-user testing and avoiding common accessibility failures like missing alt text or poor contrast.
 
 ### Key Insights
-- Content must align with entity understanding
-- Structured entities improve search interpretation
-- Semantic SEO is becoming central
+- Accessibility improves SEO and user experience  
+- Alt text and contrast issues are common failures  
+- Manual testing is as important as tools  
+- Accessibility impacts conversions and reach  
 
-### Takeaway
-Entity-based SEO improves AI comprehension.
-
----
-
-## Video 6
-- Link: https://www.youtube.com/watch?v=6aAleydaSEO6
-
-### Key Insights
-- GEO (Generative Engine Optimization) is emerging
-- AI search engines synthesize answers, not just rank pages
-- Content must be optimized for inclusion in AI responses
-
-### Takeaway
-SEO is expanding into GEO optimization.
+### Relevance to AI-Powered SEO Content Production
+- AI-generated content must follow accessibility-first formatting principles  
+- Content systems should ensure readability for assistive technologies  
+- AI SEO tools should validate semantic structure (headings, alt text, clarity)  
+- Accessibility compliance improves both rankings and content usability  
 
 ---
 
-## Video 7
-- Link: https://www.youtube.com/watch?v=7aAleydaSEO7
+# Overall Expert Theme
 
-### Key Insights
-- Site migrations require structured SEO planning
-- Technical errors impact long-term visibility
-- Crawlability remains a major ranking factor
+Aleyda Solis’ SEO approach centers on **data-driven, future-ready search optimization**. Across all topics, she consistently emphasizes:
 
-### Takeaway
-Technical precision protects organic visibility.
+- Understanding how Google SERPs are evolving (AI Overviews, SGE)
+- Using structured data analysis instead of assumptions
+- Balancing technical SEO with real user behavior
+- Identifying early trends before they become competitive
+- Integrating accessibility and UX into SEO strategy
+- Combining qualitative insights with quantitative tools
 
----
 
-## Video 8
-- Link: https://www.youtube.com/watch?v=8aAleydaSEO8
-
-### Key Insights
-- Search intent classification is evolving
-- AI systems better understand layered intent
-- Content must map to intent clusters
-
-### Takeaway
-Intent mapping is central to modern SEO.
-
----
-
-## Video 9
-- Link: https://www.youtube.com/watch?v=9aAleydaSEO9
-
-### Key Insights
-- SEO audits must include AI search behavior
-- Visibility tracking tools must evolve
-- Data-driven SEO decisions are becoming critical
-
-### Takeaway
-SEO auditing now includes AI search dimensions.
-
----
-
-## Video 10
-- Link: https://www.youtube.com/watch?v=10aAleydaSEO10
-
-### Key Insights
-- SEO strategy must integrate AI search trends
-- Organic visibility depends on multi-surface presence
-- Future SEO is hybrid (Google + AI systems)
-
-### Takeaway
-SEO is becoming hybrid search optimization.
-
----
-
-## Final Cross-Video Insight
-
-Across all videos, Aleyda Solis consistently emphasizes:
-
-- Technical SEO remains foundational
-- SEO must evolve for AI search systems
-- Entity and semantic understanding are critical
-- Measurement systems must adapt to AI visibility
-- International SEO requires structured global thinking
-
----
-
-## Final Conclusion
-
-SEO is no longer just a ranking discipline.
-
-It is now:
-
-> A structured, AI-aware visibility system built on technical precision, semantic understanding, and global search alignment.
