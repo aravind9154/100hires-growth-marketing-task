@@ -1,7 +1,9 @@
 # Gael Breton - YouTube Research
 
 Topic: AI-Powered SEO Content Production
+
 Platform: YouTube
+
 Research Collection Date: 16 June 2026
 
 ---
