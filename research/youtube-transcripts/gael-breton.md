@@ -30,7 +30,53 @@ https://www.youtube.com/watch?v=JMbRFcQobHU
 
 ### Transcript Highlights
 
-Gael Breton and Mark reveal how Authority Hacker uses AI behind the scenes to automate operational tasks that save time and generate revenue. They focus on practical business applications rather than public-facing AI content, showcasing systems such as automated customer support, customer retention tracking, and AI-assisted course creation. One example discussed is a workflow that automates WhatsApp community management by verifying member eligibility, tracking participation, and reducing manual administrative work.
+**[00:00 - 00:55]**  
+Introduction: The video explains how real businesses use AI not for flashy content, but for boring internal operations that save time and increase revenue.
+
+**[00:55 - 02:01]**  
+WhatsApp onboarding system is introduced to manage paid community members and ensure only eligible users are added.
+
+**[02:01 - 03:03]**  
+Partial automation workflow: Claude Code skill pulls member data from a sheet and prepares it for WhatsApp onboarding.
+
+**[03:03 - 04:10]**  
+Zapier is used as a temporary automation bridge to sync form submissions into Google Sheets and Slack notifications.
+
+**[04:10 - 05:18]**  
+Google Drive CLI integration allows Claude to read and write files directly, replacing manual spreadsheet handling.
+
+**[05:18 - 06:50]**  
+AI cleans and processes membership data automatically: removes duplicates, fixes formatting, validates membership tiers.
+
+**[06:50 - 08:21]**  
+Workflow is scheduled as a daily automation (6 AM trigger), reducing manual effort completely.
+
+**[08:21 - 10:54]**  
+Course creation system: AI generates full lesson notes, structure, and learning content from video folders and prompts.
+
+**[10:54 - 18:37]**  
+Key insight: instead of small tasks, AI performs better when given large end-to-end projects (like full course generation).
+
+**[18:37 - 22:00]**  
+AI support bot (“helper”) is introduced that answers customer questions using internal knowledge base and decides when to escalate to humans.
+
+**[22:00 - 24:07]**  
+Bot architecture: runs on server, uses limited tools for security, and only drafts responses before posting via script.
+
+**[24:07 - 26:00]**  
+Cost optimization: using subscription-based models (like Codex/Claude setup) instead of expensive API calls.
+
+**[26:00 - 29:00]**  
+Shift in mindset: instead of writing step-by-step instructions, give AI outcomes and let it design the process.
+
+**[29:00 - 33:00]**  
+Data warehouse system: combines Stripe, Circle, email, and support data into a single database (Supabase).
+
+**[33:00 - 36:00]**  
+Business intelligence use: identify churn risk, member activity, and revenue opportunities using AI analysis.
+
+**[36:00 - 37:50]**  
+Final takeaway: boring automations (support, onboarding, data, courses) create the highest business leverage.
 
 ### Key Insights
 
@@ -70,7 +116,38 @@ https://www.youtube.com/watch?v=iExsTDSKwpM
 
 ### Transcript Highlights
 
-Gael Breton explains that successful authority websites are built on trust, branding, and careful market research rather than simply targeting keywords. He emphasizes spending weeks researching affiliate programs, competitors, and monetization opportunities before launching a site. He also outlines a three-stage growth model: first reaching profitability through affiliate traffic, then building audiences through email and social channels, and finally creating proprietary products. For link building, he highlights methods such as HARO, guest posting, skyscraper outreach, broken link building, and reclaiming unlinked brand mentions.
+**[00:00 - 02:00]**  
+Introduction: Gael Breton joins discussion and starts answering SEO and affiliate marketing questions.
+
+**[02:00 - 05:07]**  
+Trust and branding are essential for affiliate SEO success; most sites fail because they skip proper planning and market research.
+
+**[05:07 - 08:23]**  
+Scaling strategy: focus on a single product and build multiple keyword-based content pages around it. Authority sites require 2–5 years to mature.
+
+**[08:23 - 11:13]**  
+Three-stage website model:  
+Stage 1 — affiliate + Google traffic  
+Stage 2 — audience building (email/social/retargeting)  
+Stage 3 — own products and sales funnels
+
+**[11:13 - 13:42]**  
+Foreign language SEO can work but requires separate teams; core link building methods remain unchanged.
+
+**[13:42 - 16:19]**  
+Main link building strategies: guest posting, skyscraper technique, HARO, and unlinked brand mentions.
+
+**[16:19 - 18:37]**  
+Search intent is a major ranking factor; content must match SERP format (lists, guides, reviews) to rank effectively.
+
+**[18:37 - 20:07]**  
+Expired domains and redirects can work temporarily but are risky and not a long-term SEO strategy.
+
+**[20:07 - 22:48]**  
+Paid ads can be used to test keyword profitability; SEO results require longer-term investment and patience.
+
+**[22:48 - 27:36]**  
+Featured snippets depend heavily on on-page structure; small tweaks alone cannot move pages from page 2 to page 1.
 
 ### Key Insights
 
@@ -109,7 +186,23 @@ https://www.youtube.com/watch?v=qmJxUzXU4oc
 
 ### Transcript Highlights
 
-Gael Breton explains that website owners should avoid updating content solely because it is old. If a page continues to rank well and generate conversions, making major changes can introduce unnecessary risk. He recommends updating content when it becomes genuinely outdated or when Google signals declining relevance through falling rankings.
+**[00:00 - 00:21]**  
+Discussion starts on whether you should update a post that is already ranking well (e.g., position #3) or leave it untouched to avoid risk.
+
+**[00:21 - 01:03]**  
+Decision depends on how outdated the content is and how stable the current rankings and earnings are.
+
+**[01:03 - 01:29]**  
+If content is slightly outdated but still relevant and converting, it may not be worth risking changes.
+
+**[01:29 - 01:48]**  
+Rule of thumb: if a post is performing well and “not broken,” avoid making unnecessary changes.
+
+**[01:48 - 02:05]**  
+When content becomes too irrelevant for users, that’s the point where updates become necessary.
+
+**[02:05 - 02:18]**  
+Google itself can signal when a page needs updating based on performance drops and reduced relevance.
 
 ### Key Insights
 
@@ -148,7 +241,35 @@ https://www.youtube.com/watch?v=tiB2AOjaO3A
 
 ### Transcript Highlights
 
-Gael Breton discusses how aged or expired domains can accelerate SEO growth by inheriting existing authority and backlinks. He explains that businesses can reduce the waiting period required to build rankings from scratch and gain a stronger starting position in search results. He also notes that the risk-to-reward ratio of using aged domains is often favorable compared to other growth tactics.
+**[0:00 - 0:05]**
+Aged domains are described as a “jackpot” opportunity when used correctly.
+
+**[0:05 - 0:10]**
+Speed is emphasized — in SEO, faster results can matter when time equals money.
+
+**[0:08 - 0:14]**
+New websites continuously spend on content, links, and tools before earning anything.
+
+**[0:10 - 0:18]**
+Without revenue, these ongoing costs essentially become financial burn.
+
+**[0:18 - 0:23]**
+Starting from scratch can be inefficient; aged domains help cut down waiting time significantly.
+
+**[0:21 - 0:26]**
+Using aged domains can reduce early-stage costs by speeding up traction.
+
+**[0:26 - 0:31]**
+Expired/aged domains are described as a cheap way of acquiring links.
+
+**[0:31 - 0:36]**
+This practice is not necessarily treated as a “gray hat” tactic in the industry.
+
+**[0:36 - 0:45]**
+It is seen more as a normal industry behavior rather than something risky or penalized.
+
+**[0:45 - 0:55]**
+Overall risk-to-reward ratio is considered favorable when using aged domains correctly.
 
 ### Key Insights
 
@@ -187,7 +308,35 @@ https://www.youtube.com/watch?v=GN1mDv88wgU
 
 ### Transcript Highlights
 
-Gael Breton argues that traditional blogging is evolving rather than disappearing. He believes modern content creators should combine blogs, videos, podcasts, and other media formats to reach audiences effectively. He also emphasizes that successful websites are increasingly built as businesses and brands rather than simple content blogs.
+**[0:00 - 0:08]**
+Discussion starts around the idea that traditional “generic blogs” are losing effectiveness and value over time.
+
+**[0:08 - 0:20]**
+Shift in content consumption: basic blog-style posts are fading as audiences prefer more engaging formats.
+
+**[0:20 - 0:28]**
+High-quality content still matters, especially in-depth guides that provide real value rather than thin articles.
+
+**[1:14 - 1:26]**
+Content is now created in a more “fragmented” way and later repurposed into different formats and pages.
+
+**[1:26 - 1:43]**
+Creators can reuse content from podcasts, interviews, and tools to build stronger SEO assets like roundup posts.
+
+**[1:43 - 1:55]**
+YouTube channels and other platforms are increasingly used as primary content sources for repurposing.
+
+**[2:16 - 2:28]**
+Strong opinion expressed: traditional blogging as it used to exist is declining significantly.
+
+**[2:28 - 3:06]**
+Shift from personal blogs to business-driven content strategies is becoming more dominant online.
+
+**[3:06 - 3:28]**
+Big companies are investing heavily in content, changing the competition landscape for smaller bloggers.
+
+**[4:07 - 4:28]**
+Modern content preference is shifting toward casual, personality-driven formats (video, social content) over long blog reading sessions.
 
 ### Key Insights
 
