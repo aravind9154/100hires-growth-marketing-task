@@ -1,5 +1,7 @@
 # Gael Breton - YouTube Research
 
+Epert Name : Gael Breton
+
 Topic: AI-Powered SEO Content Production
 
 Platform: YouTube
