@@ -73,14 +73,13 @@ The conversation concludes with a discussion about organizational impact and bud
 
 ---
 
-## Relevance AI-powered SEO content production 
+## Relevance AI-powered SEO Content Production
 
--Highlights the shift from keyword-focused SEO to entity-based content optimization.
--Emphasizes the importance of brand authority and digital presence for AI-generated answers.
--Shows how AI systems use retrieval and ranking mechanisms to select content sources.
--Demonstrates why content should be created for AI discoverability and machine understanding, not just human readers.
--Reinforces the growing role of GEO (Generative Engine Optimization) in increasing visibility across AI assistants and generative search platforms.
----
+- Highlights the shift from keyword-focused SEO to entity-based content optimization.
+- Emphasizes the importance of brand authority and digital presence for AI-generated answers.
+- Shows how AI systems use retrieval and ranking mechanisms to select content sources.
+- Demonstrates why content should be created for AI discoverability and machine understanding, not just human readers.
+- Reinforces the growing role of GEO (Generative Engine Optimization) in increasing visibility across AI assistants and generative search platforms.
 
 # Video 2
 
@@ -140,14 +139,13 @@ The discussion highlights how publishing on respected websites can strengthen an
 
 The speakers examine Google's growing preference for brands and entities over the years. Olaf references Google's earlier updates that appeared to favor strong brands and recalls observing low-quality content ranking well simply because it belonged to highly authoritative domains, suggesting the existence of site-wide authority signals.
 
-[22:31 - 24:02]
+### [22:31 - 24:02]
 
 The conversation turns to measuring entity strength. Olaf argues that consistent publishing, visibility, speaking engagements, podcasts, videos, and other public contributions all help strengthen an entity. Maintaining topical consistency is particularly important, as regularly contributing within a focused subject area helps Google associate expertise with that entity.
 
-[24:02 - END]
+### [24:02 - END]
 
 The episode concludes with a discussion about E-E-A-T signals and entity evaluation. Olaf references his research into patents and academic papers that identify potential indicators Google may use to assess expertise, authority, and trustworthiness. He notes that E-E-A-T remains an abstract concept, but believes measurable signals tied to online presence, reputation, and topical authority play an important role in how Google evaluates entities.
----
 
 ## Key Insights
 
@@ -213,9 +211,9 @@ The discussion explores the relationship between Google’s API leak, patents, a
 [20:12 - 24:40]
 Olaf discusses user signals, semantic content creation, and machine understanding. He notes that patents and leaked documents suggest user interactions play a larger role in rankings than Google publicly acknowledges. He emphasizes that SEO professionals should think like engineers and focus on creating machine-readable content structures that clearly communicate meaning, entities, and relationships rather than relying on human-centric assumptions alone.
 
-[24:40 - END]
+### [24:40 - END]
+
 The conversation concludes with a discussion about connecting insights from Google patents, API leaks, and antitrust documents. Olaf explains that he is building AI-powered systems to identify relationships between these sources and uncover deeper insights into search technologies. He highlights the importance of understanding the underlying mechanics of search and AI systems to prepare for the future of digital visibility and semantic SEO.
----
 
 ## Key Insights
 
@@ -288,9 +286,9 @@ The presentation explores the coexistence of keyword-based and entity-based sear
 [12:15 - 13:24]
 Olaf discusses Google's efforts to handle long-tail entities and lesser-known subjects. He references experiments such as Search Profile Cards and Google's Knowledge Vault initiative, which use natural language processing and large-scale data extraction to identify and understand entities that may not yet exist in the primary Knowledge Graph.
 
-[13:24 - END]
+### [13:24 - END]
+
 The presentation concludes with an examination of Knowledge Vault and Google's broader strategy for extracting information from unstructured web content. Olaf explains that Google uses natural language processing, entity extraction, and validation mechanisms to continuously expand its knowledge systems. He argues that semantic search is evolving toward a world where entities, relationships, and contextual understanding become the primary framework for organizing and retrieving information, forming the foundation for future search innovations such as AI-powered search experiences and generative search systems.
----
 
 ## Key Insights
 
