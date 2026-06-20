@@ -1,12 +1,10 @@
 # Koray Tuğberk GÜBÜR - YouTube Research
 
-**Name:** Koray Tuğberk GÜBÜR
+Topic: AI-Powered SEO Content Production
 
-**Topic:** AI-Powered SEO Content Production
+Platform: YouTube
 
-**Platform:** YouTube
-
-**Research Collection Date:** 16 June 2026
+Research Collection Date: 16 June 2026
 
 ---
 
