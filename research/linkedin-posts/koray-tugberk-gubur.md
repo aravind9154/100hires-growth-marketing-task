@@ -1,10 +1,10 @@
-# Koray Tuğberk Gübür - LinkedIn Research (AI SEO)
+# Koray Tuğberk Gübür - LinkedIn Research 
 
 Name : Koray Tuğberk Gübür
 
 Topic : AI-powered SEO content production
 
-Research collected date : 17/06/2026
+Research data collected date : 17/06/2026
 
 ---
 
@@ -303,3 +303,6 @@ Publication date : 3 months ago
 
 ---
 
+### overall expert theme 
+
+Koray Tuğberk Gübür’s research centers on the idea that AI-powered SEO is fundamentally an extension of advanced search engineering rather than a completely new discipline. His work consistently emphasizes semantic SEO, retrieval systems, ranking-state theory, topical authority, and the mechanisms that influence how search engines and AI systems discover, evaluate, and surface information. He views AI visibility as a function of strong search foundations, where document authority, passage retrievability, semantic relevance, user utility, and historical performance work together to improve both rankings and AI citations. Across his content, he advocates a systems-thinking approach that combines technical SEO, information retrieval principles, entity relationships, programmatic scalability, and continuous content refinement. Overall, his perspective frames AI-powered SEO content production as the process of building semantically rich, highly retrievable, user-focused content ecosystems that align with how modern search and AI retrieval systems understand, rank, and generate answers.
