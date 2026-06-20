@@ -1,7 +1,5 @@
 # Olaf Kopp - YouTube Research
 
-Name: Olaf Kopp 
-
 Topic:AI-powered SEO content production 
 
 Platform: YouTube 
