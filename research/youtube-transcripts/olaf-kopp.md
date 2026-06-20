@@ -63,8 +63,6 @@ Olaf explains that GEO should be viewed as a broader discipline that encompasses
 
 The conversation concludes with a discussion about organizational impact and budgeting. Olaf argues that GEO provides SEO professionals with opportunities to access larger branding budgets and influence broader business strategies. He encourages practitioners to embrace GEO as a strategic evolution rather than viewing it as simply “SEO under a new name,” emphasizing its role in connecting search expertise with branding and AI-driven visibility.
 
---
-
 ## Key Insights
 
 1. GEO focuses on visibility inside AI responses  
@@ -83,8 +81,6 @@ The conversation concludes with a discussion about organizational impact and bud
 - Demonstrates why content should be created for AI discoverability and machine understanding, not just human readers.
 - Reinforces the growing role of GEO (Generative Engine Optimization) in increasing visibility across AI assistants and generative search platforms.
   
---
-
 # Video 2
 
 ### Title  
