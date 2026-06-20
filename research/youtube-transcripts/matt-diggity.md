@@ -1,7 +1,11 @@
 # Matt Diggity - YouTube Research
 
+Nmae : Matt Diggity
+
 Topic: AI-Powered SEO Content Production
+
 Platform: YouTube
+
 Research Collection Date: 16 June 2026
 
 ---
