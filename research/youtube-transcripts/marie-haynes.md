@@ -1,12 +1,12 @@
 # Marie Haynes - YouTube Research
 
-**Name:** Marie Haynes
-  
- **Topic:** AI-powered SEO content production
+Topic: AI-powered SEO content production
     
-**Platform:** YouTube
+Platform: YouTube
   
-**Research Collection Date:** 16 June 2026  
+Research Collection Date: 16 June 2026  
+
+--
 
 # Video 1
 
@@ -89,6 +89,7 @@ Final summary reinforces key priorities: technical SEO, E-E-A-T, internal linkin
 - Internal linking structures help AI systems understand content relationships and site authority.
 - E-E-A-T signals must be embedded throughout AI-assisted content production workflows.
 - Technical SEO foundations remain necessary to ensure AI-generated content can be crawled, indexed, and understood.
+
 ---
 
 # Video 2
@@ -168,6 +169,7 @@ The episode concludes with a balanced view: Bard and AI search may disrupt SEO s
 - Original perspectives and unique expertise become more valuable as generic content loses visibility.
 - Entity authority and brand recognition influence how AI systems select and cite sources.
 - Content strategies should be designed for answer engines and AI summaries, not just traditional rankings.
+
 ---
 
 # Video 3
@@ -238,6 +240,7 @@ The episode concludes with key takeaways for marketers: invest in brand authorit
 - Digital PR and brand mentions strengthen AI visibility beyond traditional backlink acquisition.
 - Structured formats such as lists, tables, and statistics improve AI comprehension and citation potential.
 - Content should be created to establish topical authority and reputation rather than maximize page views alone.
+
 ---
 
 # Video 4
@@ -314,6 +317,7 @@ Marie highlights the importance of entity SEO, local SEO, Google Business Profil
 - AI-generated content must support entity recognition through clear author, brand, and topic associations.
 - Local SEO signals, schema markup, and trust indicators improve AI understanding of content relevance.
 - Content architecture should prioritize user needs and topic relationships rather than isolated keywords.
+
 ---
 
 # Video 5
