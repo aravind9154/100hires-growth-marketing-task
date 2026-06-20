@@ -170,6 +170,8 @@ Title : AI Search Optimization Strategy
 
 URL : https://www.linkedin.com/posts/aleyda_focusing-your-ai-search-optimization-strategy-activity-7458408976976867328-3bJm
 
+Published date : 1 month ago
+
 ### Key Highlights
 
 1. Semrush Enterprise AIO offers a dedicated feature for identifying AI visibility improvement opportunities.
