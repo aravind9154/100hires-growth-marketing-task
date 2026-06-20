@@ -1,7 +1,5 @@
 # Aleyda Solis - YouTube Research
 
-Expert Name: Aleyda Solis 
-
 Topic: AI-Powered SEO Content Production 
 
 Platform: YouTube 
