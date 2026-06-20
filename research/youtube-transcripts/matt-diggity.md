@@ -1,7 +1,5 @@
 # Matt Diggity - YouTube Research
 
-Nmae : Matt Diggity
-
 Topic: AI-Powered SEO Content Production
 
 Platform: YouTube
