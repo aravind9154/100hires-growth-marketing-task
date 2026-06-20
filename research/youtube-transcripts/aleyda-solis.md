@@ -1,8 +1,11 @@
 # Aleyda Solis - YouTube Research
 
-Expert Name: Aleyda Solis  
-Topic: AI-Powered SEO Content Production  
-Platform: YouTube  
+Expert Name: Aleyda Solis 
+
+Topic: AI-Powered SEO Content Production 
+
+Platform: YouTube 
+
 Research Collection Date: 16 June 2026  
 
 ---
@@ -10,15 +13,19 @@ Research Collection Date: 16 June 2026
 ## Video 1
 
 ### Title  
+
 SEO Strategies to Focus on in 2022  
 
 ### Video URL  
+
 https://www.youtube.com/watch?v=4w6XvaKZFI4  
 
-### Publication Date  
+### Publication Date
+
 Jan 2022  
 
 ### Key Topics Discussed
+
 - SEO strategy evolution and priorities
 - Content-driven organic growth
 - Importance of search intent alignment
@@ -76,12 +83,15 @@ Key SEO priorities include technical SEO, E-E-A-T, internal linking, content hub
 ## Video 2
 
 ### Title  
+
 How to Measure The Impact of AI Overviews on Organic Search Traffic  
 
-### Video URL  
+### Video URL 
+
 https://www.youtube.com/watch?v=L7qfCzlQjxY  
 
-### Publication Date  
+### Publication Date 
+
 1 year ago  
 
 ### Key Topics Discussed
@@ -143,12 +153,15 @@ Traffic impact assessment should be segmented by inclusion, exclusion, impressio
 ## Video 3
 
 ### Title  
+
 How to Assess Google AI Overviews (SGE) Traffic Risk for Your Site  
 
-### Video URL  
+### Video URL 
+
 https://www.youtube.com/watch?v=ZMADc6bOwP4  
 
 ### Publication Date  
+
 2 years ago  
 
 ### Key Topics Discussed
@@ -210,12 +223,15 @@ An SGE impact assessment framework should evaluate search volume, CTR, rankings,
 ## Video 4
 
 ### Title  
+
 How to Identify and Leverage Trending Topics for SEO  
 
-### Video URL  
+### Video URL
+
 https://www.youtube.com/watch?v=BUjfPMmqtfE  
 
-### Publication Date  
+### Publication Date 
+
 3 years ago  
 
 ### Key Topics Discussed
@@ -289,12 +305,15 @@ Google Search Console is an underrated trend tool. Branded queries often reveal 
 ## Video 5
 
 ### Title  
+
 Accessibility for SEOs: How to take Accessibility into consideration as an SEO  
 
-### Video URL  
+### Video URL 
+
 https://www.youtube.com/watch?v=Qs6CwFoYkI0  
 
 ### Publication Date  
+
 4 years ago  
 
 ### Key Topics Discussed
