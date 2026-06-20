@@ -1,22 +1,23 @@
 # Lily Ray - YouTube Research
 
-**Name:** Lily Ray  
+Topic: AI-powered SEO content production
 
-**Topic:** AI-powered SEO content production
+Platform: YouTube 
 
-**Platform:** YouTube 
-
-**Research Collection Date:** 16 June 2026  
+Research Collection Date: 16 June 2026  
 
 # VIDEO 1
 
-## Title  
+## Title 
+
 5 Ways SEO is Moving Toward Influencer Marketing  
 
-## Video URL  
+## Video URL 
+
 https://www.youtube.com/watch?v=KFY-84CqejA  
 
-## Publication Date  
+## Publication Date
+
 2 years ago  
 
 ## Key Topics Discussed
@@ -82,12 +83,15 @@ SERPs increasingly show mixed content types: videos, tweets, forum posts, and cr
 # VIDEO 2
 
 ## Title  
+
 How to Analyze the Impact of Google Core Updates on Your Website
 
-## Video URL  
+## Video URL 
+
 https://www.youtube.com/watch?v=zOO4P9jy-FU  
 
-## Publication Date  
+## Publication Date
+
 2 years ago  
 
 ## Key Topics
@@ -140,12 +144,15 @@ Final SEO impact should only be assessed after the full rollout completes to ens
 # VIDEO 3
 
 ## Title  
+
 You are what you EEAT
 
-## Video URL  
+## Video URL 
+
 https://www.youtube.com/watch?v=9dONdby7dDU  
 
 ## Publication Date  
+
 1 month ago  
 
 ## Key Topics
@@ -208,12 +215,15 @@ Long-term SEO success depends on building proprietary value such as original res
 # VIDEO 4
 
 ## Title  
+
 Stop Guessing! Ground Your ChatGPT Insights in Real AEO/GEO/SEO Data
 
 ## Video URL  
+
 https://www.youtube.com/watch?v=T08LW1gU8-Q  
 
-## Publication Date  
+## Publication Date
+
 4 months ago  
 
 ## Key Topics
@@ -312,12 +322,15 @@ Final takeaway: Apple’s strength is trust and ecosystem dominance, but weaknes
 # VIDEO 5
 
 ## Title  
+
 Why Your Brand Ranks on Google But Disappears in ChatGPT (feat. Lily Ray)
 
-## Video URL  
+## Video URL 
+
 https://www.youtube.com/watch?v=vZFXa-2qL9E  
 
-## Publication Date  
+## Publication Date 
+
 4 weeks ago  
 
 ## Key Topics
