@@ -1,34 +1,62 @@
 # Aleyda Solis - LinkedIn Research (AI SEO & Search Evolution)
 
-## Why this expert was selected
-Aleyda Solis was selected due to her deep expertise in technical SEO, international SEO, and modern search evolution. Her insights are highly relevant to AI-powered SEO because she focuses on how search visibility is changing with AI, zero-click behavior, measurement frameworks, and SEO strategy adaptation in evolving SERP environments.
+Name :  Aleyda Solis
+
+Topic : AI-powered SEO content production
+
+Reasearch collected date : 17/06/2026
 
 ---
 
-## Overview
-Aleyda Solis’ content focuses on SEO systems, measurement frameworks, AI search impact, zero-click search behavior, and practical strategies for adapting SEO to evolving search engines.
+## Post 1 
 
----
+Title : 
 
-## Post 1 — AI Traffic vs AI Citations
-- Link: https://www.linkedin.com/posts/aleyda_ai-traffic-vs-ai-citations-what-clicks-activity-7465347600397959168-4s8B
+AI Traffic vs AI Citations
 
-### Context
-Discussion on how AI search systems generate both traffic and citations, and how their impact should be evaluated differently.
+URL : 
+
+https://www.linkedin.com/posts/aleyda_ai-traffic-vs-ai-citations-what-clicks-activity-7465347600397959168-4s8B
+
+Published date : 
+
+3 weeks ago 
+
+### Key Highlights
+
+1. Organic search remains dominant
+Across 40 analyzed websites, organic search generated approximately 20.45% of visits, while AI-driven traffic accounted for only 0.19%, showing that traditional search still delivers the majority of website traffic.
+
+2. AI citations and AI traffic follow different patterns
+Pages most frequently cited by AI systems are often different from the pages that actually receive AI referral clicks, indicating separate visibility and traffic dynamics.
+
+3. AI traffic is concentrated on transactional and brand-focused pages
+Homepages, brand-entry pages, and product pages receive a large share of AI-driven visits, suggesting users often click when they are closer to a decision or brand interaction.
+
+4. AI citations are distributed across supporting content
+AI systems frequently reference category pages, guides, listings, support documents, policy pages, and detailed product/property pages that help answer, validate, or compare information.
+
+5. AI search performance requires multiple measurement frameworks
+Businesses should track AI presence, citations, referral traffic, page roles, traffic ownership, and business impact separately rather than relying on a single "AI traffic" KPI.
 
 ### Key Insight
+
 - AI search introduces new visibility metrics beyond clicks
 - Citations may become as important as direct traffic
 - Traditional analytics is insufficient for AI search tracking
 
 ### Strategic Interpretation
+
 - SEO measurement must evolve beyond traffic-only reporting
 - Visibility in AI responses becomes a core KPI
 - New tracking models are required for AI search
 
-### Takeaway for AI SEO systems
-- Build systems that track AI citations + mentions
-- Expand analytics beyond click-based metrics
+### Relevance to AI-Powered SEO Content Production
+
+- Prioritize content that earns AI citations, not just clicks.
+- Create diverse content formats such as guides, FAQs, category pages, and comparisons.
+- Structure content clearly to improve AI retrieval and understanding.
+- Measure success through AI visibility, citations, and brand presence, not only traffic.
 
 ---
 
