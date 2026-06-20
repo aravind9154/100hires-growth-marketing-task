@@ -1,4 +1,4 @@
-# Lily Ray - LinkedIn Research (Google SEO, AI Content & Quality Systems)
+# Lily Ray - LinkedIn Research
 
 Name :  Lily Ray 
 
