@@ -1,7 +1,5 @@
 # Nick Eubanks - YouTube Research
 
-Name : Nick Eubanks
-
 Topic: AI-Powered SEO Content Production
 
 Platform: YouTube
