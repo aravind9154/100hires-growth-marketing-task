@@ -1,5 +1,11 @@
 # Gael Breton - LinkedIn Research (AI SEO, Automation & Future of Search)
 
+Name : Gael Breton
+
+Topic : AI-powered SEO content production
+
+Research collected date : 17/06/2026
+
 ## Why this expert was selected
 Gael Breton was selected because he focuses on modern SEO systems, AI-driven workflows, automation tools, and the evolving future of search. His insights are highly relevant to AI-powered SEO content production because they connect traditional SEO with AI-native workflows and automation-driven systems.
 
