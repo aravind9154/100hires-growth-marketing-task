@@ -40,24 +40,28 @@ https://www.youtube.com/watch?v=bYdduv569Eo
 ## Transcript Highlights
 
 [00:01 - 05:44]
+
 Olaf Kopp and Patrick Stox discuss their long history in SEO and digital marketing. Olaf introduces himself as co-founder of Aufgesang and Head of SEO & AI Search (GEO), explaining his focus on research, product development, and exploring emerging technologies. He also describes his passion for studying patents and research papers from Google, Microsoft, and OpenAI to uncover deeper insights into search technology.
 
 [05:44 - 07:25]
+
 Olaf explains the motivation behind creating the Research Suite, a platform that documents patents, research papers, and proprietary insights. The suite includes research assistants and AI-powered tools trained on this knowledge base. He notes that AI has significantly accelerated his research workflows, although he had been conducting patent analysis long before the rise of generative AI.
 
 [07:25 - 09:47]
+
 When asked to define GEO (Generative Engine Optimization), Olaf describes it as a new interdisciplinary field connecting SEO, online PR, and branding. He argues that GEO should not be viewed solely through the lens of traditional SEO because AI assistants generate far fewer website clicks than search engines. Instead, GEO should be understood as a branding and visibility channel rather than a pure performance-marketing channel.
 
-[09:47 - 12:43]
+### [09:47 - 12:43]
+
 The discussion focuses on the relationship between GEO and SEO. Olaf emphasizes that GEO creates new awareness for SEO principles, since understanding retrieval systems and search rankings remains important for AI-generated answers. However, he argues that professionals should avoid limiting GEO to SEO terminology because doing so restricts access to broader business stakeholders and decision-makers.
 
-[12:43 - 15:26]
+### [12:43 - 15:26]
+
 Olaf explains that GEO should be viewed as a broader discipline that encompasses SEO rather than the other way around. As AI assistants increasingly become primary information platforms, SEO becomes one component within a larger AI-driven ecosystem. He highlights that GEO opens opportunities to collaborate with branding, communications, and executive teams rather than remaining confined to traditional SEO departments.
 
-[15:26 - END]
+### [15:26 - END]
 
 The conversation concludes with a discussion about organizational impact and budgeting. Olaf argues that GEO provides SEO professionals with opportunities to access larger branding budgets and influence broader business strategies. He encourages practitioners to embrace GEO as a strategic evolution rather than viewing it as simply “SEO under a new name,” emphasizing its role in connecting search expertise with branding and AI-driven visibility.
----
 
 ## Key Insights
 
