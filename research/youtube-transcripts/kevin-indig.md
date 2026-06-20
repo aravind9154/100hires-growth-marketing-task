@@ -1,11 +1,10 @@
 # Kevin Indig - YouTube Research
 
-## Expert Information
+Topic: AI-powered SEO content production
 
-**Name:** Kevin Indig  
-**Topic:** AI-powered SEO content production
-**Platform:** YouTube  
-**Research Collection Date:** 16 June 2026  
+Platform: YouTube  
+
+Research Collection Date: 16 June 2026  
 
 ---
 
