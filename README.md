@@ -55,9 +55,12 @@ These experts were selected because they:
 │   ├── linkedin-posts/
 │   ├── youtube-transcripts/
 │   └── other/
+│       ├── README.md
+│       └── ai-seo-common-themes.md
 │
 └── scripts/
     └── youtube_transcript_fetcher.py
+
 ```
 
 ### methodology.md
@@ -94,6 +97,7 @@ A supporting utility script that demonstrates how YouTube transcripts can be col
 * YouTube transcripts
 * Research methodology documentation
 * Transcript collection utility script
+* AI SEO common themes analysis
 * SEO strategy discussions
 * AI-assisted content production workflows
 * Semantic SEO research
@@ -119,8 +123,8 @@ A structured research repository containing:
 * LinkedIn content analysis
 * YouTube transcript research
 * Research methodology documentation
+* AI SEO common themes analysis
 * Supporting transcript collection automation script
 * Supporting materials for future AI-powered SEO playbooks and content strategies
 
-The repository combines research organization, content analysis, and basic automation workflows to support future SEO research and playbook development.
-
+The repository combines research organization, content analysis, theme extraction, and basic automation workflows to support future SEO research and playbook development.
