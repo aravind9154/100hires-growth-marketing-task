@@ -39,7 +39,7 @@ These experts were selected because they:
 
 ## Research Collection Period
 
-* Research Collection Dates: June 17–18-19, 2026
+* Research Collection Dates: June 17–19, 2026
 * Content Review Period: April 2026 – June 2026
 
 ## Repository Structure
@@ -86,7 +86,7 @@ Contains supporting utility scripts used to demonstrate transcript collection an
 
 #### youtube_transcript_fetcher.py
 
-A utility script that demonstrates how YouTube transcripts can be collected programmatically for future research and content analysis.
+A supporting utility script that demonstrates how YouTube transcripts can be collected programmatically for future research, content analysis, and workflow automation.
 
 ## Research Materials Collected
 
