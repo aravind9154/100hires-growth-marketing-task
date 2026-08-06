@@ -517,6 +517,4 @@ Most of my playbook is built around topics such as AI-assisted workflows, semant
 
 If someone wants to learn keyword research or build a strong SEO foundation, I would still recommend following Nick Eubanks. However, for learning **AI-powered SEO content production**, I believe the other experts provide more relevant and up-to-date guidance.
 
-- Build AI-powered content on strong SEO fundamentals instead of treating AI optimization as a separate discipline.  
-  **Source:** Koray Tuğberk Gübür, *Google AI Content Guidelines Update*, Research collected: **17/06/2026**  
-  https://www.linkedin.com/posts/koray-tugberk-gubur_google-has-updated-its-guidelines-for-ai-activity-7462218037690073088-8Hz5
+
