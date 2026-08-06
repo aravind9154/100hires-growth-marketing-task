@@ -8,4 +8,4 @@ The playbook transforms the research findings into a practical Standard Operatin
 
 ## Contents
 
-- **ai-seo-content-production-playbook.md** — Complete playbook and SOP based on the collected research.
+- playbook.md — Complete playbook and SOP based on the collected research.
